@@ -21,4 +21,4 @@
 
 GITHUB URL: https://github.com/kishorenagisetty/Java_project.git
 
-APPLICATION URL: 
+APPLICATION URL: http://3.95.150.108:8080/webapp/
