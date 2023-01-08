@@ -9,7 +9,7 @@ pipeline{
         stage("SCM"){
             steps{
                 checkout([$class: 'GitSCM', 
-			        branches: [[name: '*/QA']], 
+			        branches: [[name: '*/master']], 
 			        extensions: [], 
 			        userRemoteConfigs: [[credentialsId: 'github', 
 			        url: 'https://github.com/kishorenagisetty/Java_project.git']]])
