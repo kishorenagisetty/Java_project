@@ -1,1 +1,1 @@
-# Java_project
+# In this project we are used JAVA based application
