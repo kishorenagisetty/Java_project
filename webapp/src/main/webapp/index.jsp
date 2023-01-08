@@ -42,6 +42,6 @@
     <title>End to End cicd demo</title>
   </head>
   <body>
-    <h1>End to End CICD demo for TruNarrative</h1>
+    <h1>End to End CICD demo for TruNarrative as per SRE role</h1>
   </body>
 </html>
