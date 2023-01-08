@@ -1,4 +1,4 @@
-<form action="action_page.php">
+<!-- <form action="action_page.php">
   <div class="container">
     <h1>Welcome to CICD Demo..</h1>
     <p>Please fill in this form to create an account.</p>
@@ -34,4 +34,14 @@
    <h1> Thankyou, Happy Learning </h1>
 
   
-</form>
+</form> -->
+
+
+<html>
+  <head>
+    <title>End to End cicd demo</title>
+  </head>
+  <body>
+    <h1>End to End CICD demo for TruNarrative</h1>
+  </body>
+</html>
