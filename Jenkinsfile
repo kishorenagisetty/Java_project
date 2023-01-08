@@ -58,7 +58,7 @@ pipeline{
     post{
         always{
             emailext body: '',
-            to: 'guruuklayan@gmail.com',
+            to: 'kishore.nagisetty@outlook.com, guruuklayan@gmail.com',
             subject: ''
         }
     }
