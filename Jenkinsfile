@@ -11,7 +11,7 @@ pipeline{
                 checkout([$class: 'GitSCM', 
 			        branches: [[name: '*/master']], 
 			        extensions: [], 
-			        userRemoteConfigs: [[ 
+			        userRemoteConfigs: [[credentialsId: 'github', 
 			        url: 'https://github.com/kishorenagisetty/Java_project.git']]])
             }
         }
