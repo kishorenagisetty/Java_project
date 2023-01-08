@@ -1,0 +1,11 @@
+variable "aws_region" {}
+variable "aws_access_key" {}
+variable "aws_secret_key" {}
+variable "vpc-cidr" {}
+variable "public_subnet_cidr" {}
+variable "private_subnet_cidr" {}
+variable "availablity_zones" {}
+variable "ingress_cidr" {}
+variable "inst_type" {}
+variable "amis" {}
+variable "key" {}
