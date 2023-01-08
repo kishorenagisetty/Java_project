@@ -12,7 +12,7 @@ pipeline{
 			        branches: [[name: '*/master']], 
 			        extensions: [], 
 			        userRemoteConfigs: [[ 
-			        url: 'https://github.com/kishorenagisetty/CICD_Project.git']]])
+			        url: 'https://github.com/kishorenagisetty/Java_project.git']]])
             }
         }
         stage("Build"){
